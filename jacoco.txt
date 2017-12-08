@@ -1,0 +1,15 @@
+[‎11/‎29/‎2017 5:44 PM]  Gupta, Upasana:  
+http://jenkins.fleet.ad/view/Team%20Breakdown/view/Cf2java/job/Deploy_adminportal-app-service_cf2java_qa/
+http://jenkins.fleet.ad/view/Team%20Breakdown/view/Cf2java/job/Deploy_adminportal-data-service_cf2java_qa/
+http://jenkins.fleet.ad/view/Team%20Breakdown/view/Cf2java/job/Deploy_adminportal-web_cf2java_qa/ 
+ 
+
+ 
+ 
+ticket no.
+
+jacoco.exec  
+
+a plugin for the coverage of application and show it in sonar.
+
+http://www.jacoco.org/jacoco/trunk/doc/examples/java/ReportGenerator.java
